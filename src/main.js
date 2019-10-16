@@ -3,8 +3,11 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+
+/*引入element-ui*/
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
+
 import echarts from 'echarts'
 //import axios from 'axios'
 import 'font-awesome/css/font-awesome.css'
